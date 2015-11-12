@@ -15,7 +15,7 @@ Gem::Specification.new do |s|
   # Author Information
   s.authors = ["Richard A. Lee"]
   s.email = ["richardleedev@gmai.com"]
-  s.homepage = "#"
+  s.homepage = "https://github.com/RichardAnthonyLee/compass-prototype-css"
 
   # Project Description
   s.summary = "Testing Extension Creation"
